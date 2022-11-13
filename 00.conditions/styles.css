@@ -51,6 +51,10 @@ header {
   border-radius: 25px;
 }
 
+#user-goals li.obj {
+  background-color: #ff960c;
+}
+
 #user-goals input {
   font: inherit;
   border: 1px solid #ccc;
